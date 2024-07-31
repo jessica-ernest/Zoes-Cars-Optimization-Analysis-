@@ -4,7 +4,7 @@
 Zoe Cars, a successful automotive company, is struggling to manage its surging sales data and optimize inventory levels. They need insightful data analysis to make informed decisions, so they're using SQL queries to better understand their sales data, anticipate demand trends, and streamline their business processes.
 
 
-### Objectives
+## Objectives
 ---
 They have many customers and a wide range of cars, but they're struggling with:
 
@@ -19,7 +19,7 @@ To solve these problems, Zoe Cars wants to use special computer queries (SQL) to
 
 ·	Improve their business processes
 
-#### Data Description
+## Data Description
 ----
 Orders– Order_id, Order_date,
 
@@ -39,13 +39,17 @@ car_model, car_brand,
 
 car_color
 
-##### Tools
+## Project Resources
+------
+· https://github.com/jessica-ernest/Zoes-Cars-Optimization-Analysis-/blob/main/Zoe%20Cars%20Project.sql
+
+## Tools
 -----
 ·	Excel: used for cleaning
 
 ·	Postgresql: Used for analysis
 
-###### Aim
+## Aim
 ------
 To provide Zoe Cars with actionable insight
 through SQL queries, enabling the company to make informed decisions on sales, inventory management etc.
